@@ -1,0 +1,9 @@
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: blue;
+}
+body {
+  font-family: cursive;
+}
